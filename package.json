@@ -1,0 +1,15 @@
+{
+  "author": "faith",
+  "bugs": {
+    "url": "https://github.com/fatih/structs/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/gxed/structs"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "MIT",
+  "name": "structs",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.0"
+}
